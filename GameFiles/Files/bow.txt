@@ -1,0 +1,3 @@
+A bow is a ranged weapon system consisting of an 
+elastic launching device and long shafted projecticles. 
+This weapon does 5 damage.

@@ -1,0 +1,3 @@
+Another fundamental element, 
+the air staff gives you the power of wind.
+This weapon does 10 damage.

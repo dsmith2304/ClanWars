@@ -1,0 +1,45 @@
+Images ------------------------------------
+
+gold coin          >
+silver coin        >
+copper coin        >
+Sword              >
+Bow                >
+Arrow              >
+Crossbow           > 
+Flail              > 
+air,water,earth,fire staffs    >
+Mace                           >
+Armour
+Shield
+Luck symbol
+Armour symbol
+Attack Symbol
+Health Symbol
+Mana Symbol
+Strength symbol
+Plains background
+Lake background
+River background
+Mine background
+Forest background
+Castle background
+Castle grounds background
+Shop background
+blacksmith background
+School background
+Road background
+
+Sounds  -----------------------
+Click sound
+River
+Mine
+Forest
+Castle
+Plains
+Shop
+BlackSmith
+School
+walking
+war drums
+dying sound

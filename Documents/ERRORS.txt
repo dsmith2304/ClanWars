@@ -1,0 +1,41 @@
+Character creation restrictions
+Music in each area
+Blacksmith font
+store font
+hunting mining, woodcutting, fishing screens 1500 delay and 35 & 30% not 350%          /
+login screen resize
+signup screen resize
+school screen implemented
+remove gc();                                                     /
+dilute plains
+Login signup error messages
+Indices for Prices array ( wood, copper, gold, iron)            /
+x,y coordinates in general screen                               /
+this.request focus after every button click
+---------------------
+Fight screen
+---------------------
+Magic selection with mana cost and damages
+Weapon select & weapon damage
+health and mana reset enemy
+mana bar image in dir
+Ally spots
+
+
+
+-----------------------
+Clan
+-----------------------
+clan selection in character creation
+clan display in field
+clan display on enemy
+Clan transfer bounds
+
+
+-------------------------
+IMMEDIATE
+-------------------------
+Bounds on world movement 					/
+walls block                                                    /
+gate moves user left or right dependant on castle
+castle clan display

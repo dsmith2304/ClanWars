@@ -1,0 +1,5 @@
+An arrow is a fin-stabilized projectile that is launched via a bow, 
+and consists of a long straight stiff shaft with 
+stabilizers called fletchings,
+as well as weighted arrowheads attached to the front end. 
+This range weapon does 10 damage. 

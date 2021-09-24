@@ -1,0 +1,9 @@
+Sizing_Class
+		- Dynamicly change entity sizing 
+	INPUT
+		- Percentage      |     screen width or height
+	OUTPUT
+		- Pixels for location   
+	EXAMPLE
+		- Button.setLocation(Sizing_Class.X_Pos(20,this.getSize().width),Sizing_Class.Y_Pos(20,this.getSize().height));
+
